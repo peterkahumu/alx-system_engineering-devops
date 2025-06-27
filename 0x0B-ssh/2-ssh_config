@@ -1,0 +1,5 @@
+Host alx
+  HostName 31461a195d01.b0dbbd12.alx-cod.online
+  User ubuntu
+  IdentityFile ~/.ssh/school
+  PasswordAuthentication no
