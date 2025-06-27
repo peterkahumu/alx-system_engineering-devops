@@ -1,3 +1,4 @@
 #!/bin/bash
 
-ssh -i ~/.ssh/school ubuntu@5ac032f00463@5ac032f00463.bda61118.alx-cod.online
+ssh -i ~/.ssh/school ubuntu@44.202.134.196
+
